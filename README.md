@@ -1,15 +1,15 @@
 # Farmers-server
 <hr/>
 
-농사가 처음이신가요? 그럼 ***생활농사***를 이용해보세요! <br/>
-
 <img width="500" alt="Farmers" src="https://user-images.githubusercontent.com/48947537/70606649-49cedd80-1c40-11ea-9dd6-72f50d32b3df.png">
 
-여기는 생활농사 서버 레파지토링입니다. <br/>
+여기는 생활농사 서버 레파지토리입니다. 
 [생활농사-client 바로 가기](https://github.com/codestates/Farmers-client)
 
 ### 🧐 프로젝트 소개
 <hr/>
+
+농사가 처음이신가요? 그럼 ***생활농사***를 이용해보세요! <br/>
 
 초보 농사꾼이나 취미로 농사하시는 분들을 위한 작물의 재배방식을 검색, 추천받을 수 있는 사이트 입니다. <br/>
 
