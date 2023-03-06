@@ -23,7 +23,7 @@
    
    MySQL
   
-   Sequlize
+   Sequelize
   ``` 
  
 ### 🥕 구현 기능
